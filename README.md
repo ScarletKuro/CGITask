@@ -1,3 +1,5 @@
+- [Description of the tasks](https://www.dropbox.com/s/77zkczuilbt58bm/CGI%20Java_test_ENG.PDF?dl=0 "Description of the tasks")
+- [The origin project to implement functions](https://www.dropbox.com/s/e2n29oojws9gvbi/test_source.zip?dl=0 "The origin code to implement functions")
 
 ## Time
 |  Stage | Time  |
@@ -96,7 +98,7 @@ if (!this.dentistVisitService.checkDate(calendar.getTime())){
 }
 ```
 
-##Additional information
+## Additional information
 As HTML template I used Light [Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard "Bootstrap Dashboard").
 
 Interface example
@@ -104,5 +106,5 @@ Interface example
 [![Screen 2](https://i.imgur.com/EpsaWKo.png "Screen 2")](https://i.imgur.com/EpsaWKo.png "Screen 2")
 [![Screen 3](https://i.imgur.com/ibru69Y.png "Screen 3")](https://i.imgur.com/ibru69Y.png "Screen 3")
 
-##Conclusions
+## Conclusions
 The most challenging in this work for me was thymeleaf. I never worked with it before. So far I didn't like it because of the way the bindings in thymeleaf works. In places where you think the solution is obvious - in reality its not, it has many nuances. As for the rest I already had experience: in college we had a project to build students attendance system and this experience helped me a lot to finish this tasks. The stack of technologies was the same except that I was using JSP and the patterns were a little bit different like I used repositories instead of DAO.
